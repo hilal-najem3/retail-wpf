@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repositories\\SalesCollection\\retail-wpf\\retail-wpf.csproj": {}
+    "D:\\repositories\\SalesCollection\\retail-fe\\retail-wpf\\retail-wpf.csproj": {}
   },
   "projects": {
-    "D:\\repositories\\SalesCollection\\retail-wpf\\retail-wpf.csproj": {
+    "D:\\repositories\\SalesCollection\\retail-fe\\retail-wpf\\retail-wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repositories\\SalesCollection\\retail-wpf\\retail-wpf.csproj",
+        "projectUniqueName": "D:\\repositories\\SalesCollection\\retail-fe\\retail-wpf\\retail-wpf.csproj",
         "projectName": "retail-wpf",
-        "projectPath": "D:\\repositories\\SalesCollection\\retail-wpf\\retail-wpf.csproj",
+        "projectPath": "D:\\repositories\\SalesCollection\\retail-fe\\retail-wpf\\retail-wpf.csproj",
         "packagesPath": "C:\\Users\\Hilal\\.nuget\\packages\\",
-        "outputPath": "D:\\repositories\\SalesCollection\\retail-wpf\\obj\\",
+        "outputPath": "D:\\repositories\\SalesCollection\\retail-fe\\retail-wpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Caliburn.Micro": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MaterialDesignThemes": {
               "target": "Package",
               "version": "[3.2.0, )"
             }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\repositories\SalesCollection\retail-wpf\obj\Debug\netcoreapp3.1\
+D:\repositories\SalesCollection\retail-fe\retail-wpf\obj\Debug\netcoreapp3.1\
 retail_wpf
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\repositories\SalesCollection\retail-wpf\App.xaml
+D:\repositories\SalesCollection\retail-fe\retail-wpf\App.xaml
 1-250345876
 
-8-155652491
-196-1408128052
+9874563538
+198-1797784744
 Views\ShellView.xaml;
 
-False
+True
 
